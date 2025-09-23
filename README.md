@@ -7,11 +7,11 @@
 
 ---
 
-### Live Demo
+<!---### Live Demo
 
 This project is deployed and publicly accessible. Interact with the live agent here:
 
-<!---**[➡️ Live App on Streamlit Community Cloud](https://your-app-name.streamlit.app)** *(<-- Update this link after you deploy!)* --->
+**[➡️ Live App on Streamlit Community Cloud](https://your-app-name.streamlit.app)** *(<-- Update this link after you deploy!)* --->
 
 <br>
 
