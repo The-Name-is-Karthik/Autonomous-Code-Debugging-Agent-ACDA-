@@ -3,6 +3,7 @@ python-dotenv
 docker
 
 streamlit
+streamlit-ace
 pytest
 black
 
